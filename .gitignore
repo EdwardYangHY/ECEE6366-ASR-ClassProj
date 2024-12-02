@@ -1,3 +1,6 @@
-Data/violin_raw_videos/audio_clips/
-Data/violin_raw_videos/clips/
 .DS_Store
+Data/violin_raw_videos/clips/
+# Data/violin_raw_videos/audio_clips/
+# Data/violin_raw_videos/audio_part_split_1/
+Data/violin_raw_videos/audio_clips*/
+Data/violin_audios/audio_clips*/
