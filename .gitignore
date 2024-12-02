@@ -1,4 +1,5 @@
 .DS_Store
+.env
 Data/violin_raw_videos/clips/
 # Data/violin_raw_videos/audio_clips/
 # Data/violin_raw_videos/audio_part_split_1/
