@@ -33,7 +33,7 @@ https://github.com/jimmy646/violin
 [audio_clips](./VIOLIN_Audio_Data/audio_clips/): data are stored here
 All audio are 44.1KHz, we need to downsample them to 16KHz before we get input data
 
-[preprocess_dataset.ipynb](preprocess_dataset.ipynb): read the datasplit file, get to the audio clips and make a dataset object (with only filepaths and subs, no audio arrays), save to disk.
+[preprocess_dataset.ipynb](preprocess_dataset.ipynb): read the datasplit file, clean the subtitles, get to the audio clips and make a dataset object (with only filepaths and subs, no audio arrays), save to disk.
 
 [preprocess_dataset.ipynb](preprocess_dataset.ipynb): load the dataset, preprocess data, fine-tune
 
